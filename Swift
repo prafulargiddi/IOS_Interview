@@ -1,0 +1,1 @@
+1. How is a dictionary different from an array?
